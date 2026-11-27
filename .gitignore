@@ -1,3 +1,5 @@
 .preview/
 node_modules/
 .DS_Store
+# 需要 workflow 权限才能提交，先放在本地
+.github/workflows/stats.yml
