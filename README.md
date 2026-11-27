@@ -25,16 +25,16 @@
 
 ## ✨ 精选项目
 
-- 🎵 **[MusicBell 点歌铃](https://github.com/ChenyangLT/MusicBell)** &nbsp;`C#` `WPF`
+- 🎵 **[MusicBell 点歌铃](https://github.com/ChenyangLT/MusicBell)** &nbsp;`C#` `WPF`<br>
   给班级大屏用的定时自动点歌：日历点歌、点歌人统计、课程感知，还能和 ClassIsland 联动。
 
-- 🖊 **[HoneySky White Board](https://github.com/ChenyangLT/HoneySky-White-Board)** &nbsp;`C#` `WPF`
+- 🖊 **[HoneySky White Board](https://github.com/ChenyangLT/HoneySky-White-Board)** &nbsp;`C#` `WPF`<br>
   白板书写与教学软件（Windows x64）—— 安装包、文档和[官网](https://chenyanglt.github.io/HoneySky-White-Board/)都在这。
 
-- 🎧 **[ECHO 多平台音源](https://github.com/ChenyangLT/ECHO-Multi-Music-Sources)** &nbsp;`JavaScript`
+- 🎧 **[ECHO 多平台音源](https://github.com/ChenyangLT/ECHO-Multi-Music-Sources)** &nbsp;`JavaScript`<br>
   把 9 个在线音乐平台接进同一个播放器：搜索、播放、歌单、歌词、MV 背景，[使用文档](https://chenyanglt.github.io/ECHO-Multi-Music-Sources/)。
 
-- 💊 **[meditrack](https://github.com/ChenyangLT/meditrack)** &nbsp;`Kotlin` `Compose`
+- 💊 **[meditrack](https://github.com/ChenyangLT/meditrack)** &nbsp;`Kotlin` `Compose`<br>
   离线优先的用药提醒与记录：精确闹钟、后台守护、解锁补提醒、桌面小组件，没有网络权限。
 
 ## 🧩 更多作品
@@ -50,17 +50,17 @@
 ## 🧰 工具箱
 
 <p align="center">
-    <img alt="C%23" src="https://img.shields.io/badge/--C%23-178600?style=flat-square&logo=csharp&logoColor=white">
-    <img alt=".NET" src="https://img.shields.io/badge/--.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white">
-    <img alt="Python" src="https://img.shields.io/badge/--Python-3776AB?style=flat-square&logo=python&logoColor=white">
-    <img alt="Kotlin" src="https://img.shields.io/badge/--Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
-    <img alt="Android" src="https://img.shields.io/badge/--Android-3DDC84?style=flat-square&logo=android&logoColor=white">
-    <img alt="JavaScript" src="https://img.shields.io/badge/--JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
-    <img alt="Node.js" src="https://img.shields.io/badge/--Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white">
-    <img alt="Git" src="https://img.shields.io/badge/--Git-F05032?style=flat-square&logo=git&logoColor=white">
-    <img alt="VS%20Code" src="https://img.shields.io/badge/--VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
-    <img alt="Windows" src="https://img.shields.io/badge/--Windows-0078D4?style=flat-square&logo=windows&logoColor=white">
-    <img alt="Cloudflare%20Pages" src="https://img.shields.io/badge/--Cloudflare%20Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white">
+    <img alt="C%23" src="https://img.shields.io/badge/C%23-178600?style=flat-square&logo=csharp&logoColor=white">
+    <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
+    <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white">
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+    <img alt="VS%20Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white">
+    <img alt="Cloudflare%20Pages" src="https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white">
 </p>
 
 ## 📊 数据
